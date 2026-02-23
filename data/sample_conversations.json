@@ -1,0 +1,11 @@
+[
+  {"user_id": "user_1", "message": "I want to buy running shoes for marathon training", "timestamp": "2025-02-20T10:00:00Z"},
+  {"user_id": "user_1", "message": "What's the best budget option under 100?", "timestamp": "2025-02-20T10:05:00Z"},
+  {"user_id": "user_2", "message": "Looking for running shoes for marathon training", "timestamp": "2025-02-20T11:00:00Z"},
+  {"user_id": "user_2", "message": "Need something durable and lightweight", "timestamp": "2025-02-20T11:02:00Z"},
+  {"user_id": "user_3", "message": "Marathon training gear recommendations please", "timestamp": "2025-02-20T12:00:00Z"},
+  {"user_id": "user_4", "message": "I love hiking and outdoor gear", "timestamp": "2025-02-20T13:00:00Z"},
+  {"user_id": "user_4", "message": "Show me camping equipment", "timestamp": "2025-02-20T13:05:00Z"},
+  {"user_id": "user_5", "message": "Running and fitness gear for beginners", "timestamp": "2025-02-20T14:00:00Z"},
+  {"user_id": "user_5", "message": "Best shoes for starting to run?", "timestamp": "2025-02-20T14:10:00Z"}
+]
